@@ -1,7 +1,11 @@
-###Simple number generator
+
+### Simple number generator
+
 ## Getting Started
-##git clone <URL>
-##npm install
+
+## git clone <URL>
+
+  ## npm install
   (install the dependencies)
   
-##be happy
+## be happy
